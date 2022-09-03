@@ -28,6 +28,7 @@ class PostImagesController < ApplicationController
 
 
 
+
   private
 
   def post_image_params
